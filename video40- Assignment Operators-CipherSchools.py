@@ -1,0 +1,6 @@
+name= "rihat"
+name += "ik"
+print(name)
+age=23
+age-=1
+print(age)
